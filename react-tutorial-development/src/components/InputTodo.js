@@ -24,6 +24,7 @@ const InputTodo = (props) => {
         title: '',
       });
     } else {
+      // eslint-disable-next-line no-alert
       alert('Input field should not be empty.');
     }
   };
