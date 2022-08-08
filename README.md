@@ -2,55 +2,51 @@
 
 # Project Name
 
-> Description the project.
+> This app contains a simple React App, following the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021). We will be consolidating our knowledge about components, props, states, and hooks, among other React features. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- JavaScript
+- React
+- CSS
+- React Route
+- React Icons
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+ - NPM updated
+ - Modern web browser
+ - Git
 ### Setup
 
+    git clone https://github.com/rominana/react-tutorial.git
+    cd react-tutorial/
 ### Install
 
+    npm install
 ### Usage
 
-### Run tests
-
+    npm run build
+    npm start
 ### Deployment
 
+    npm run deploy
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Romina Patiño**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rominana](https://github.com/rominana)
+- Twitter: [@romina_pati](https://twitter.com/romina_pati)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/romina-patino)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,12 +60,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Microverse
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My supportive family 😊
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
